@@ -145,6 +145,11 @@
         <artifactId>swing-layout</artifactId>
         <version>1.0.3</version>
     </dependency>
+     <dependency>
+       <groupId>org.sonarsource.scanner.maven</groupId>
+        <artifactId>sonar-maven-plugin</artifactId>
+        <version>3.9.1.2184</version>
+    </dependency>
     <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
